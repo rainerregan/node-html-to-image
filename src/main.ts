@@ -64,6 +64,5 @@ export async function nodeHtmlToImage(options: Options) {
   } catch (err) {
     console.error(err);
     await cluster.close();
-    process.exit(1);
   }
 }

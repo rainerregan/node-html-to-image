@@ -1,5 +1,5 @@
 {
-  "name": "node-html-to-image",
+  "name": "@rainerregan/node-html-to-image",
   "version": "4.0.0",
   "description": "A Node.js library that generates images from HTML",
   "main": "dist/index.js",
